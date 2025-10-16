@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "cookingTime": 20,
+    "servings": 4,
+    "ingredients": [
+      "spaghetti",
+      "eggs",
+      "bacon",
+      "parmesan cheese",
+      "black pepper",
+      "garlic",
+      "olive oil"
+    ],
+    "instructions": [
+      "Boil spaghetti in salted water until al dente",
+      "Cook bacon until crispy, reserve fat",
+      "Mix eggs with grated parmesan and black pepper",
+      "Toss hot pasta with bacon and egg mixture",
+      "Serve immediately with extra parmesan"
+    ],
+    "nutritional": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 45,
+      "fat": 28
+    },
+    "dietary": [
+      ""
+    ],
+    "tags": [
+      "pasta",
+      "quick",
+      "comfort food"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vegetarian Buddha Bowl",
+    "cuisine": "Asian Fusion",
+    "difficulty": "Easy",
+    "cookingTime": 25,
+    "servings": 2,
+    "ingredients": [
+      "quinoa",
+      "chickpeas",
+      "avocado",
+      "carrots",
+      "cucumber",
+      "bell pepper",
+      "tahini",
+      "lemon",
+      "spinach"
+    ],
+    "instructions": [
+      "Cook quinoa according to package instructions",
+      "Roast chickpeas with olive oil and spices",
+      "Prepare vegetables by slicing and dicing",
+      "Make tahini dressing with lemon juice",
+      "Assemble bowl with quinoa base and toppings"
+    ],
+    "nutritional": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 16
+    },
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "tags": [
+      "healthy",
+      "bowl",
+      "plant-based"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chicken Tikka Masala",
+    "cuisine": "Indian",
+    "difficulty": "Hard",
+    "cookingTime": 45,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "tomatoes",
+      "onions",
+      "garlic",
+      "ginger",
+      "cream",
+      "garam masala",
+      "turmeric",
+      "cumin"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and spices",
+      "Grill or pan-fry marinated chicken",
+      "Prepare tomato-cream sauce with onions and spices",
+      "Simmer chicken in the sauce",
+      "Serve with rice or naan bread"
+    ],
+    "nutritional": {
+      "calories": 380,
+      "protein": 35,
+      "carbs": 12,
+      "fat": 22
+    },
+    "dietary": [
+      "gluten-free"
+    ],
+    "tags": [
+      "curry",
+      "spicy",
+      "comfort food"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Greek Salad",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cookingTime": 10,
+    "servings": 4,
+    "ingredients": [
+      "tomatoes",
+      "cucumber",
+      "red onion",
+      "feta cheese",
+      "olives",
+      "olive oil",
+      "lemon",
+      "oregano"
+    ],
+    "instructions": [
+      "Chop tomatoes and cucumber into chunks",
+      "Slice red onion thinly",
+      "Combine vegetables in a large bowl",
+      "Add feta cheese and olives",
+      "Dress with olive oil, lemon juice, and oregano"
+    ],
+    "nutritional": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12
+    },
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "tags": [
+      "salad",
+      "fresh",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Beef Tacos",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "cookingTime": 20,
+    "servings": 4,
+    "ingredients": [
+      "ground beef",
+      "taco shells",
+      "lettuce",
+      "tomatoes",
+      "cheese",
+      "onions",
+      "sour cream",
+      "cumin",
+      "chili powder"
+    ],
+    "instructions": [
+      "Cook ground beef with spices",
+      "Warm taco shells in oven",
+      "Prepare toppings: chop lettuce, tomatoes, onions",
+      "Fill shells with beef and toppings",
+      "Serve with sour cream and cheese"
+    ],
+    "nutritional": {
+      "calories": 320,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 18
+    },
+    "dietary": [
+      "gluten-free"
+    ],
+    "tags": [
+      "mexican",
+      "quick",
+      "family-friendly"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "difficulty": "Hard",
+    "cookingTime": 35,
+    "servings": 4,
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "vegetable broth",
+      "white wine",
+      "onions",
+      "garlic",
+      "parmesan cheese",
+      "butter"
+    ],
+    "instructions": [
+      "Saut\u00e9 mushrooms and set aside",
+      "Cook onions and garlic until soft",
+      "Add rice and stir until coated",
+      "Gradually add warm broth, stirring constantly",
+      "Finish with mushrooms, cheese, and butter"
+    ],
+    "nutritional": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 10
+    },
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "tags": [
+      "rice",
+      "creamy",
+      "comfort food"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Caesar Salad",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cookingTime": 15,
+    "servings": 4,
+    "ingredients": [
+      "romaine lettuce",
+      "croutons",
+      "parmesan cheese",
+      "caesar dressing",
+      "anchovies",
+      "garlic",
+      "lemon"
+    ],
+    "instructions": [
+      "Wash and chop romaine lettuce",
+      "Make caesar dressing with anchovies and garlic",
+      "Toss lettuce with dressing",
+      "Add croutons and parmesan cheese",
+      "Serve immediately"
+    ],
+    "nutritional": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 16
+    },
+    "dietary": [
+      ""
+    ],
+    "tags": [
+      "salad",
+      "classic",
+      "appetizer"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pad Thai",
+    "cuisine": "Thai",
+    "difficulty": "Medium",
+    "cookingTime": 25,
+    "servings": 4,
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "eggs",
+      "bean sprouts",
+      "peanuts",
+      "lime",
+      "fish sauce",
+      "tamarind",
+      "palm sugar"
+    ],
+    "instructions": [
+      "Soak rice noodles in warm water",
+      "Stir-fry shrimp and scrambled eggs",
+      "Add noodles and sauce ingredients",
+      "Toss with bean sprouts and peanuts",
+      "Serve with lime wedges"
+    ],
+    "nutritional": {
+      "calories": 380,
+      "protein": 20,
+      "carbs": 52,
+      "fat": 12
+    },
+    "dietary": [
+      "gluten-free"
+    ],
+    "tags": [
+      "noodles",
+      "stir-fry",
+      "asian"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chocolate Chip Cookies",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cookingTime": 25,
+    "servings": 24,
+    "ingredients": [
+      "flour",
+      "butter",
+      "brown sugar",
+      "white sugar",
+      "eggs",
+      "vanilla",
+      "chocolate chips",
+      "baking soda",
+      "salt"
+    ],
+    "instructions": [
+      "Cream butter and sugars together",
+      "Add eggs and vanilla extract",
+      "Mix in flour, baking soda, and salt",
+      "Fold in chocolate chips",
+      "Bake at 375\u00b0F for 9-11 minutes"
+    ],
+    "nutritional": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 6
+    },
+    "dietary": [
+      "vegetarian"
+    ],
+    "tags": [
+      "dessert",
+      "cookies",
+      "sweet"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chicken Stir Fry",
+    "cuisine": "Asian",
+    "difficulty": "Easy",
+    "cookingTime": 15,
+    "servings": 4,
+    "ingredients": [
+      "chicken breast",
+      "broccoli",
+      "bell peppers",
+      "carrots",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "sesame oil"
+    ],
+    "instructions": [
+      "Cut chicken into bite-sized pieces",
+      "Stir-fry chicken until cooked through",
+      "Add vegetables and cook until tender-crisp",
+      "Mix with soy sauce and seasonings",
+      "Serve over rice or noodles"
+    ],
+    "nutritional": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 10
+    },
+    "dietary": [
+      "gluten-free"
+    ],
+    "tags": [
+      "stir-fry",
+      "healthy",
+      "quick"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "cookingTime": 30,
+    "servings": 4,
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella cheese",
+      "basil",
+      "olive oil",
+      "garlic"
+    ],
+    "instructions": [
+      "Roll out pizza dough",
+      "Spread tomato sauce evenly",
+      "Add mozzarella cheese",
+      "Bake at 450\u00b0F for 12-15 minutes",
+      "Top with fresh basil and olive oil"
+    ],
+    "nutritional": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 12
+    },
+    "dietary": [
+      "vegetarian"
+    ],
+    "tags": [
+      "pizza",
+      "italian",
+      "classic"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Salmon Teriyaki",
+    "cuisine": "Japanese",
+    "difficulty": "Medium",
+    "cookingTime": 20,
+    "servings": 4,
+    "ingredients": [
+      "salmon fillets",
+      "soy sauce",
+      "mirin",
+      "sugar",
+      "sake",
+      "ginger",
+      "garlic",
+      "sesame seeds"
+    ],
+    "instructions": [
+      "Make teriyaki sauce with soy sauce, mirin, and sugar",
+      "Marinate salmon in half the sauce",
+      "Pan-fry salmon until cooked through",
+      "Glaze with remaining teriyaki sauce",
+      "Garnish with sesame seeds"
+    ],
+    "nutritional": {
+      "calories": 280,
+      "protein": 25,
+      "carbs": 8,
+      "fat": 16
+    },
+    "dietary": [
+      "gluten-free"
+    ],
+    "tags": [
+      "fish",
+      "japanese",
+      "healthy"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "French Onion Soup",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cookingTime": 60,
+    "servings": 4,
+    "ingredients": [
+      "onions",
+      "beef broth",
+      "white wine",
+      "butter",
+      "flour",
+      "gruyere cheese",
+      "baguette",
+      "thyme"
+    ],
+    "instructions": [
+      "Caramelize onions slowly in butter",
+      "Add wine and reduce",
+      "Add beef broth and simmer",
+      "Top with toasted bread and cheese",
+      "Broil until cheese is bubbly"
+    ],
+    "nutritional": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 14
+    },
+    "dietary": [
+      ""
+    ],
+    "tags": [
+      "soup",
+      "french",
+      "comfort food"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Quinoa Stuffed Peppers",
+    "cuisine": "Mediterranean",
+    "difficulty": "Medium",
+    "cookingTime": 45,
+    "servings": 4,
+    "ingredients": [
+      "bell peppers",
+      "quinoa",
+      "tomatoes",
+      "onions",
+      "feta cheese",
+      "pine nuts",
+      "herbs",
+      "olive oil"
+    ],
+    "instructions": [
+      "Hollow out bell peppers",
+      "Cook quinoa with vegetables",
+      "Mix with feta, pine nuts, and herbs",
+      "Stuff peppers with mixture",
+      "Bake at 375\u00b0F for 25-30 minutes"
+    ],
+    "nutritional": {
+      "calories": 260,
+      "protein": 12,
+      "carbs": 36,
+      "fat": 8
+    },
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "tags": [
+      "stuffed",
+      "healthy",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beef Stroganoff",
+    "cuisine": "Russian",
+    "difficulty": "Medium",
+    "cookingTime": 30,
+    "servings": 4,
+    "ingredients": [
+      "beef strips",
+      "mushrooms",
+      "onions",
+      "sour cream",
+      "beef broth",
+      "flour",
+      "mustard",
+      "egg noodles"
+    ],
+    "instructions": [
+      "Brown beef strips in batches",
+      "Saut\u00e9 mushrooms and onions",
+      "Make sauce with broth and sour cream",
+      "Combine beef with sauce",
+      "Serve over egg noodles"
+    ],
+    "nutritional": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 20
+    },
+    "dietary": [
+      ""
+    ],
+    "tags": [
+      "beef",
+      "creamy",
+      "comfort food"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "difficulty": "Easy",
+    "cookingTime": 10,
+    "servings": 4,
+    "ingredients": [
+      "tomatoes",
+      "mozzarella",
+      "basil",
+      "olive oil",
+      "balsamic vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Slice tomatoes and mozzarella",
+      "Arrange alternately with basil leaves",
+      "Drizzle with olive oil and balsamic",
+      "Season with salt and pepper",
+      "Serve immediately"
+    ],
+    "nutritional": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 12
+    },
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "tags": [
+      "salad",
+      "fresh",
+      "italian"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Fish and Chips",
+    "cuisine": "British",
+    "difficulty": "Hard",
+    "cookingTime": 40,
+    "servings": 4,
+    "ingredients": [
+      "white fish",
+      "potatoes",
+      "flour",
+      "beer",
+      "baking powder",
+      "salt",
+      "oil",
+      "malt vinegar"
+    ],
+    "instructions": [
+      "Cut potatoes into chips and fry twice",
+      "Make beer batter with flour and beer",
+      "Coat fish in batter",
+      "Deep fry fish until golden",
+      "Serve with chips and vinegar"
+    ],
+    "nutritional": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 26
+    },
+    "dietary": [
+      ""
+    ],
+    "tags": [
+      "fish",
+      "fried",
+      "british"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Vegetable Curry",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "cookingTime": 35,
+    "servings": 4,
+    "ingredients": [
+      "mixed vegetables",
+      "coconut milk",
+      "curry powder",
+      "onions",
+      "garlic",
+      "ginger",
+      "tomatoes",
+      "cilantro"
+    ],
+    "instructions": [
+      "Saut\u00e9 onions, garlic, and ginger",
+      "Add curry powder and cook briefly",
+      "Add vegetables and tomatoes",
+      "Pour in coconut milk and simmer",
+      "Garnish with cilantro"
+    ],
+    "nutritional": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 10
+    },
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "tags": [
+      "curry",
+      "vegetarian",
+      "spicy"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Pancakes",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cookingTime": 20,
+    "servings": 4,
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "sugar",
+      "baking powder",
+      "salt",
+      "butter",
+      "vanilla",
+      "maple syrup"
+    ],
+    "instructions": [
+      "Mix dry ingredients in a bowl",
+      "Whisk wet ingredients separately",
+      "Combine wet and dry ingredients",
+      "Cook on griddle until bubbles form",
+      "Serve with butter and maple syrup"
+    ],
+    "nutritional": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 8
+    },
+    "dietary": [
+      "vegetarian"
+    ],
+    "tags": [
+      "breakfast",
+      "sweet",
+      "american"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ratatouille",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cookingTime": 50,
+    "servings": 6,
+    "ingredients": [
+      "eggplant",
+      "zucchini",
+      "bell peppers",
+      "tomatoes",
+      "onions",
+      "garlic",
+      "herbs",
+      "olive oil"
+    ],
+    "instructions": [
+      "Cut all vegetables into uniform pieces",
+      "Saut\u00e9 onions and garlic",
+      "Layer vegetables in baking dish",
+      "Season with herbs and olive oil",
+      "Bake at 375\u00b0F for 35-40 minutes"
+    ],
+    "nutritional": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 4
+    },
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "tags": [
+      "vegetables",
+      "french",
+      "healthy"
+    ]
+  }
+]

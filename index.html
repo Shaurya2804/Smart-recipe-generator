@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Smart Recipe Generator</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="app">
+  <h1>Smart Recipe Generator</h1>
+  <!-- Ingredient Input & Filters will be here -->
+  <div id="ingredient-input-section">
+    <input type="text" id="ingredient-input" placeholder="Enter ingredients" />
+    <button id="add-ingredient-btn">Add</button>
+    <div id="ingredient-list"></div>
+    <button id="clear-ingredients-btn">Clear All</button>
+  </div>
+  <div id="dietary-filters">
+    <label><input type="checkbox" id="vegetarian" /> Vegetarian</label>
+    <label><input type="checkbox" id="vegan" /> Vegan</label>
+    <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
+  </div>
+  <div id="recipe-filters">
+    <label for="difficulty-select">Difficulty:</label>
+    <select id="difficulty-select">
+      <option value="">All</option>
+      <option value="Easy">Easy</option>
+      <option value="Medium">Medium</option>
+      <option value="Hard">Hard</option>
+    </select>
+    <label for="time-select">Cooking Time:</label>
+    <select id="time-select">
+      <option value="">All</option>
+      <option value="quick">&lt; 20 min</option>
+      <option value="medium">20-40 min</option>
+      <option value="long">&gt; 40 min</option>
+    </select>
+  </div>
+  <div id="recipes-container"></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

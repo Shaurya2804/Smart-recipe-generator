@@ -47,6 +47,15 @@ app.js - JavaScript file with all app logic, including ingredient management and
 
 recipes_database.json (optional) - JSON file containing recipe data (data embedded in app.js in this version)
 
+Screenshots
+
+<img width="1919" height="871" alt="Screenshot 2025-10-16 220444" src="https://github.com/user-attachments/assets/b09086f8-e831-44c5-a95c-38008ad5c716" />
+<img width="1919" height="866" alt="Screenshot 2025-10-16 220500" src="https://github.com/user-attachments/assets/b89c0dc1-7279-45eb-a2ea-02f97f6578e9" />
+<img width="1919" height="870" alt="Screenshot 2025-10-16 220528" src="https://github.com/user-attachments/assets/5447dea0-5e08-4fb7-a5ef-a95aa1544dc3" />
+<img width="1919" height="860" alt="Screenshot 2025-10-16 220543" src="https://github.com/user-attachments/assets/b6694170-ea61-4446-bad8-65141a1307f6" />
+<img width="1919" height="860" alt="Screenshot 2025-10-16 220600" src="https://github.com/user-attachments/assets/7851effd-2407-4f1c-ab98-4afdb407897d" />
+
+
 Usage
 
 Type ingredients you have in the input box and click 'Add'.
